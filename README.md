@@ -1,4 +1,4 @@
-# NSDC-Sports-Analytics-Track
+# NSDC-Biology-Track
 Predicting cancer risk (categorical) based on many numerical features for different risk factors. Lends itself well to logistic regression.
 
 **Project Overview:**
